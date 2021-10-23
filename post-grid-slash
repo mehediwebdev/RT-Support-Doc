@@ -1,0 +1,3 @@
+lib/classes/rtTPGHelper.php :  after LINE: 541
+
+$excerpt = stripslashes($excerpt);

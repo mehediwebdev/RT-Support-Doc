@@ -1,0 +1,733 @@
+For Support:
+Thanks for purchasing the theme.
+
+Please feel free to mail us if you face any problem.
+
+Please see the attachment
+==========================
+We are using Layer Slider as Bundle. We own Extended License but as per Envato license policy we can not distribute the key see https://help.market.envato.com/hc/en-us/articles/213762463-Bundled-Plugins
+
+This  plugin will work properly without  activation license key,  activation need only for auto update we release Theme update when this plugin update come.
+​
+So, no need to update plugin, if you will update the theme then plugin will update automatically.
+​====================
+Loco translate:
+https://www.youtube.com/watch?v=3Fohy96uSzY
+
+WPML Add field for all update for header
+
+It is very hard to check this type of technical problem without checking it manually.
+ If possible please give me the access of the WP to check the problem and solve that.
+
+
+Your support is expired, please buy extended support.
+
+?Please! follow the link below to update theme.
+
+If have any custom code configuration then it will be lost , otherwise no problem to update.
+We have followed alternative way to import data.
+
+If you buy this theme , you don't need to buy Classified Listing Pro
+
+This is a custom work besides the free support.
+
+
+
+?01. If you set everything then check your mail server. You can contact with your hosting provider.?
+
+?
+
+02.  
+
+
+Bump UP Listing => Change old data to new data so it show first of list.
+
+
+
+
+The features which you want , exactly  exist in our theme . Here is our classima theme:
+
+
+https://themeforest.net/item/classima-classified-ads-wordpress-theme/24494997 
+
+See our demo from here:https://www.radiustheme.com/demo/wordpress/publicdemo/classima/my-account/ 
+Username: demo
+password: demo 
+
+Please check our theme and feel free to mail us if you face any problem.
+
+Thank you !
+
+
+
+If server upload limit less then theme zip file then this issue. You can unzip theme and upload via FTP in theme folder then active.
+
+Our custom work rate is $20/hour.
+
+If you are willing to make the changes, you can knock us with WP and FTP access.
+
+Thanks!
+
+
+https://www.radiustheme.com/how-to-setup-and-configure-tlp-team-pro-for-wordpress/#taxonomy-order
+
+
+
+1) Price is yearly but 50% discount for next year.
+
+2) Yes old data will not deleted.
+
+
+--------------
+
+
+Please! see the attachment image. Here, the solution. If anything else, please feel free and contact with us.
+
+
+Thanks! 
+
+
+
+
+.footer-layout1.fotter-color2 .footer-center-wrap {
+    
+    background-color: #Your_colo_code;
+}
+
+
+Use this CSS:
+
+
+https://themeforest.net/item/koncrete-construction-building-wordpress-theme/23751296
+.site-header .main-navigation ul li a {
+font-family: YOUR_FONT;} 
+
+@media only screen and (min-width: 768px) {
+
+.header-area .logo-area {
+
+    width: 152%;
+    margin-left: -30px;
+}
+}
+
+
+Sorry! this feature is not available right now, we will add this feature soon.We have noted your requirements.
+
+.header-area .logo-area {
+    display: table;
+    height: 86px;
+    padding: 5px 0;
+    width: 128%;
+}
+
+We use alternative method I sent you that doc link.
+
+If you have few minutes , please post a 5 star rating it will help us.
+
+Thanks!
+
+
+
+
+You mean different category show in different page? you can create menu with category link see https://www.radiustheme.com/setup-configure-classified-listing-pro-wordpress/#category-link
+
+
+https://www.youtube.com/watch?v=43j6h3oCm0U
+
+
+ok noted will change it.
+
+
+
+This is not related to our plugin , this is related to your theme template file, need to edit your template filte to reaggange this text.
+
+
+
+You can customize using child theme as you want.
+
+Extended License
+
+
+
+
+I've just checked your website and found serious Site Health issues, screenshot: http://prntscr.com/rib84z
+
+This is not related to theme/plugin, it's related to Hosting and
+ if you don't fix it your WordPress can't perform properly and may create other issues(like you mentioned).
+ Please ask your hosting provider to fix this for you.
+
+
+
+Thanks for purchasing the theme.
+
+Please feel free to mail us if you face any problem.
+
+Please see the attachment
+
+Loco translate:
+https://www.youtube.com/watch?v=3Fohy96uSzY
+
+
+
+Debug Bar
+
+
+
+
+You are most welcome!
+
+?
+We always try to make our client happy.
+
+You can give ratting from this link : https://themeforest.net/item/koncrete-construction-building-wordpress-theme/23751296 
+
+Thank you ! 
+
+
+@media (max-width: 767px){
+#tophead .tophead-right {
+    
+    display: none;
+}
+}
+237-mainjs
+
+Have you updated fontawesome 5 in Elemtor?
+
+https://www.radiustheme.com/setup-configure-classified-listing-pro-wordpress/#membership
+
+
+.fa-map-marker:before {
+    content: "\f041" !important;
+}
+
+.fa-map-marker:before {
+    content: "\f041";
+}
+
+In that case please provide us Admin access of your website. And remember, by any case if you accidentally remove any post/page it'll go to trash first so you can restore it easily.
+
+
+
+Hi Jwjexec,
+
+Yes, it is possible to filter ads by the seller . Please don't open multiple ticket , try to reply on one ticket
+
+
+
+
+1) Please use Theme Option
+
+2) As it is hover layout if make image smaller then hover content will show with grid width that will look odd.
+
+3) Yes from WP Bakery Page builder row settings you can add the padding see screenshot
+
+4) Sorry don't have sub-class display option.
+
+5) It is widgets see Sidebar you can remove and add widgets.
+
+
+Thank you !
+
+
+There are lots of plugins in wordpress repository. It is not possible to check compatibility , so if you face any problem, then Please feel free to mail us.
+
+
+You need to set payment see https://www.radiustheme.com/setup-configure-classified-listing-pro-wordpress/#pricing 
+
+
+
+Disable membership then from Regular pricing option you can do pay per ad option. I will make a doc tomorrow.
+?
+Custom work $25/ hr or fix price. 
+
+
+
+
+We have tested all the AD code from google AdSense, Taboola, etc. But never test the code like  " EvaDav ". I hope that will work well in our theme. If that is not working Please use a plugin name -
+
+https://wordpress.org/plugins/advanced-ads/ 
+
+OR
+
+https://wordpress.org/plugins/adredux/
+
+Hope that will help. Let me know you can do that. And You can send me the access and ad code .so that I can check.
+
+
+
+01.Yes, you can just edit and make existing ad featured or top .
+
+02. Yes , it is possible to make ad featured or top when it submitting 
+
+
+- Feature Listing => This listing show with a special icon.
+- TOP Listing => This listing show top of listing page you can control how many lisitng.
+- Bump UP Listing => Change old data to new data so it show first of list.
+
+
+/****  Plaese paste it in the functions.php file in the theme *****/
+function change_date_format_cb( $string ) {
+
+    $string = 'Y'; // Your desire time format as you want
+    
+return $string;
+}
+
+add_filter('classima_single_listing_time_format', 'change_date_format_cb', 10, 1);
+
+If you face a problem please give me the access, and tell me which format you want. I shall make that happen.
+
+
+
+
+I have checked our theme, no problem found. And our other client also don't face such problem .
+
+
+Please follow this documentation: https://www.radiustheme.com/demo/wordpress/themes/metro/docs/#t-demo
+
+And also check your Mysql version , which is requered 5.6
+
+If still have problem give us admin access  with site url to check your problem .
+?
+Thanks!  
+user can buy sell using phone call or email communication
+
+
+There is a settings for turning ON registration, you have to enable it from here: http://spacereq.com.au/wp-admin/options-general.php
+
+We've just enabled it for you so it should work now, please check.
+
+
+
+
+
+
+
+Sorry we don't have import option now. Not sure WordPress default export import will work.
+
+Have you purchase? You can try our free version.
+
+
+
+Please check your server PHP version make sure PHP 7 or+
+
+Send me URL, admin & FTP access I will check.
+
+
+
+We noted will add color control in next version
+
+.banner .banner-content {
+    position: relative;
+    padding: 34px 0 55px;
+}
+.action-btn a:hover {
+    border: #ddd;
+}
+
+*****ranna****top bar***
+02. Add this css to get topbar
+@media (max-width: 768px){
+.header-area {
+display: inline !important;
+height: !important;
+}
+a.fill-btn {
+height: 44px;
+line-height: 17px;
+}
+}
+?
+
+add_filter('rtwpvg_slider_js_options', function ($options) {
+$options['rtl'] = is_rtl();
+return $options;
+});
+
+.rt-img-responsive {
+    height: 359px;
+}
+Now write this CSS in Appearance => customize => additional CSS
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+.main-header .main-navigation-area .main-navigation ul li a,
+.main-header .main-navigation-area .main-navigation ul.menu>li.menu-item-has-children:after {
+   color: #111 !important;
+
+
+
+
+Yes that's the latest version. Please provide us FTP access of your website so that we can investigate further.
+
+And before that, please update your database/MySQL version of your website because your current version is outdated and it can lead to many issues like this, screenshot: http://prntscr.com/rmy3ii
+
+You need to use at least MySQL version 5.6+, you can ask your hosting provider to update it for you.
+
+
+Please sir! give your Purchase Code. And give us your problem details with screen shot what you facing. 
+
+?
+
+?
+
+Thank you! 
+Please, sir! give your Purchase Code. which theme and plugin you are using give us details.
+
+ And give us your problem details with screenshot what you facing.
+?
+Thank you!
+
+
+Increase your time execution limit max_execution_time = 300  
+https://www.radiustheme.com/demo/wordpress/eikra/docs/#t-demo
+
+OR,
+Please follow this alternative demo import process: https://www.radiustheme.com/demo/wordpress/eikra/docs/#demo-alt
+
+If you have still the problem feel free and mail us.
+
+Thanks!
+NOTE: Our time Zone is GMT+6. Saturday & Sunday is limited support. If you don't get a reply in 12 hrs in Working days from Monday - Friday please give us a reminder.
+
+
+1=>Ok go to your PHPMyAdmin backend and remove this two table
+wp_rtcl_conversations
+wp_rtcl_conversation_messages
+2=> Deactive classified listing plugin
+3=> Reactive the classified listing plugin
+
+Let me know the udpate.
+
+
+.wpb_text_column a:not(.btn):not(.button):after{
+	border-bottom: 0px !important;
+}
+
+
+Add the following PHP snippets into your website:
+
+//-------------------------------------
+add_filter( 'rtcl_price_types', function(){
+unset($price_types['on_call']);
+return $price_types;
+} );
+//-------------------------------------
+
+If you don't know how to add custom PHP snippets into website here's the guide: https://www.wpbeginner.com/plugins/how-to-easily-add-custom-code-in-wordpress-without-breaking-your-site/
+
+
+
+You are most welcome.
+?
+ Please give us here a positive review that may help us to support:
+
+https://wordpress.org/support/plugin/wp-logo-showcase/reviews/#new-post
+
+
+
+.form-control{background-color:#b72424;    border-color: #4bdebc;}
+input[type="text"] {
+    
+    border-color: #e62222;
+    
+    background-color: red;
+}\
+
+
+Please give us the screenshot of your problem, which part you want to customize. 
+?
+And also It is very hard to check this type of technical problem without checking it manually.
+
+If possible please give me the access of the WP to check the problem and solve that.
+
+Thank you!
+
+Both are coming from WordPress.org if HTTP look-back not enable then you can not install any plugin from org.
+
+.vertical-menu-area .vertical-menu ul.menu li a
+
+
+Thanks for purchasing our theme.
+
+Sir you need to import demo data see point 3 we have two ways to install demo data https://www.radiustheme.com/demo/wordpress/themes/metro/docs/
+
+Also have video https://www.youtube.com/watch?v=JJqRTLrtxHE&feature=youtu.be
+
+
+
+
+Sorry 3rd party plugin integration not under free support
+
+See support 
+Item support includes:
+Availability of the author to answer questions
+Answering technical questions about items features
+
+
+
+
+Which text come from page post ie database this can change from admin end or content.
+
+Only static text coming from Theme & core plugin.
+
+Can you please send me screenshot which text then I can tell?
+
+Assistance with reported bugs and issues
+Help with included 3rd party assets
+However, item support does not include:
+Customization services
+Installation services
+
+
+https://www.radiustheme.com/demo/wordpress/seoengine/docs/#speed
+
+
+
+
+
+Please try alternative method https://www.radiustheme.com/demo/wordpress/themes/metro/docs/#demo-alt
+
+If success then home page slider needs to set manually. 
+
+If it also doesn't work then, It is your server problem, resources are limited not suitable for WordPress site. 
+
+Please! contact with your hosting provider about this problem.
+
+Thank you!
+
+
+Error 500  is your internal server error!
+
+
+It is not only our requirements but also WordPress recommendation:
+PHP version 5.6 or greater. But for maximum speed gain, we recommend you to use PHP version 7.3+.
+MySQL version 5.6 or greater OR MariaDB version 10.0 or greater.
+WordPress memory limit of 128 MB greater.
+?
+?
+Please! contact with the hosting provider, they will fix your problem.  It is not our theme related problem.
+?
+Thanks
+
+
+
+Thanks for your interest.
+
+1) Till now theme got 470+ sales we don't save customer url.
+2) Yes we have option empty hide
+3) Yes based on Elementor. Most of color changed with primary color from admin end some are some Elementor settings.
+
+.mean-container .mean-nav ul li a{
+
+    color: green !important;
+}
+
+Error: Internal Server Error (500)
+
+ Normal data import by XML ie our alternative method. It is WordPress default import no relation with the theme. XML data import WordPress default + server related.
+
+If the alternative method does not work ie your server resources are limited not suitable for WordPress site.
+?
+
+Please say your hosting provider to give Wordpress friendly hosting, your server resources is limited for WordPress.
+
+
+Then, if you face any problem, feel free and mail us.
+
+Thank you!
+
+
+
+If you have a few minutes, please give a 5-star rating on themeforest.net on the Redchili theme. That will be a great help for our support team.
+
+
+Regular payment for promotion like Top/ Feature & Bump up
+
+Top => Set ad at the top of the list it shows in random order with a background color.
+Featured => These ads show in the list with an icon in left
+Bump up => It changes old ads data to current data so it show the top of the list.
+
+Home page is Static Pricing table Elementor addon after creating a package in backend you can create a link in pricing addon button like with "checkout/membership"
+
+
+If you or your client for single domain develop a site, in this case, need Regular license.
+
+If you use the theme for multiple domains and re-sell to your client, in this case, need Extended license 
+
+See detail https://themeforest.net/licenses/standard
+
+
+In classified site store mean one users ads show under his user profile with his store information. like this https://www.radiustheme.com/demo/wordpress/themes/classima/store/radiustheme/
+
+
+
+I think all standard plugins will work with there own layout style. 
+
+
+
+
+
+
+
+
+We have two ways to install demo if 1st way fail 2nd way should work see our doc point 3 1&2 https://radiustheme.com/demo/wordpress/eikra/docs/
+
+Check video https://www.youtube.com/watch?v=v7_UcjlPOsM
+
+First you told LMS function not work we use LearnPress LMS plugin it should work cause all users using.
+
+Try 2nd way it should work if not work then send us URL, admin & FTP access I will check.
+
+
+
+
+The map view comes from city, state, address & zip code.
+
+It is auto
+
+when user add this info in listing form map generate auto
+
+
+
+
+
+
+1) There's no option of "service" in listing type. Like someone want to list car rental service as it doesn't come under buy or sell.
+
+=> You can add new ad type from admin end
+
+2) I just created a test listing type, but there's no option to add features in that. 
+
+=> Custom fields depend on category not ad type. which feature you mean?
+
+3) How can i create a category "Personals" without any monetary values, like men seeking women and women seeking men.
+
+=> Create category by name
+
+4) Does theme support adsense ?
+
+=> Yes support
+
+
+?
+Item support includes:
+Availability of the author to answer questions
+Answering technical questions about items features
+Assistance with reported bugs and issues
+Help with included 3rd party assets
+However, item support does not include:
+Customization services
+Installation services 
+
+
+
+Sorry for the late response.
+
+
+Thank you so much for your patience.
+
+We have lots of clients so it is difficult to respond immediately.
+
+Thanks again and congrats for solving the problem yourself.
+
+
+
+Alternative is default XML import it will not show this type of error. The alternative should work it may give a different error if server resources are limited.
+
+Please check server PHP version, Memory & Execution limit.
+In top search use auto suggestion layout.
+
+
+It is not theme related problem. If server resources are limited, then it shows this type of error. Increase your execution time limit.
+
+Follow this alternative demo import process: https://www.radiustheme.com/demo/wordpress/themes/metro/docs/#demo-alt
+
+
+The alternative is default XML import it will not show this type of error. If it is also showing error, contact with your hosting provider.
+
+Say them to check and update server PHP version, Memory & Execution limit.
+Say them to check and update server PHP version(7+) , Memory(512) & Max Execution limit (300).
+?
+
+It is not included in our free support.
+Item support includes:
+
+*Availability of the author to answer questions
+*Answering technical questions about items features
+*Assistance with reported bugs and issues
+*Help with included 3rd party assets
+
+However, item support does not include:
+
+*Customization services
+*Installation services
+
+
+https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-
+
+
+    transform: rotate(-15deg) skewY(9deg) skewX(7deg);
+?
+
+Add this CSS in Appearance => customize => additional CSS 
+
+.main-header .main-navigation-area .main-navigation ul li.mega-menu:hover ul{
+background-color: red !important;
+}
+
+.main-header .main-navigation-area .main-navigation ul li ul li:hover > a {
+    color: #ffffff;
+    background-color: #7b0a0a;
+}
+
+Our system work like this way
+?
+1) Post free ads then pay for promotion like top, featured ads
+?
+2) Membership like 30 ads $40 for 30 days in membership has option to set some free ads. If set some free ads then after post no of free ads user need to purchase a membership. But promotion is still different after post ads promotion come.
+
+
+
+Will perform below task for email issue in Classified
+1. Check mail functionality work or not by Check Email plugin
+2. Check Classified Email Settings
+i) Email Sender option settings
+ii) Email Content Type set as HTML
+3. WP Rocket plugin or other cache plugin exist or not
+
+
+
+
+// Moderation Settings (Hide form fields)
+add_filter('rtcl_moderation_settings_options', function ( $options ){
+$options['hide_form_fields']['options']['zipcode'] = __('Post Code', 'classified-listing');
+return $options;
+});
+
+// Moderation Settings (Show / Hide (in listing detail page))
+add_filter('rtcl_get_listing_detail_page_display_options', function ( $options ){
+$options['zipcode'] = __('Post Code', 'classified-listing');
+return $options;
+});
+
+// Dashboard Listing Form Zip Code Field
+add_filter('rtcl_listing_contact_details_fields', function ( $options ){
+$options['zipcode']['label'] = __('Post Code', 'classified-listing');
+return $options;
+});

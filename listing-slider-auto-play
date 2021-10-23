@@ -1,0 +1,4 @@
+add_filter('rtcl_widget_listings_slider_options', function($options){
+$options['autoplay'] = true;
+return $options;
+});

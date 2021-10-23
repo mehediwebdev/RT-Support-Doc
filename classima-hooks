@@ -1,0 +1,8 @@
+add_filter('rtcl_get_price_unit_list', function ($unit_list) {
+    $unit_list['sqft'] = [
+        'title' => esc_html__("Meter", 'classima'),
+        'short' => esc_html__("per meter", 'classima')
+    ];
+
+    return $unit_list;
+});

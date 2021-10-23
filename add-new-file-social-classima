@@ -1,0 +1,21 @@
+add_filter('rtcl_store_social_media_options', function ($social_items){
+
+        $social_items = array(
+                 'facebook' => __("Facebook", 'classified-listing-store'),
+            'twitter'  => __("Twitter", 'classified-listing-store'),
+             'youtube'  => __("Youtube", 'classified-listing-store'),
+             'linkedin' => __("LinkedIn", 'classified-listing-store'),
+ 		   'intagram' => __("intagram", 'classified-listing-store')
+          );
+  return $social_items;
+  });
+  
+  
+And write this CSS in Appearance => customize => additional CSS
+.rtcl-icon.rtcl-icon-intagram:before {
+    content: "\f16d";
+    background: red;
+    border-radius: 50%;
+    width: 30px;
+    padding: 6px 0px;
+}

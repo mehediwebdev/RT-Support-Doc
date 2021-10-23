@@ -1,0 +1,18 @@
+/* Added by RadiusTheme */
+/* START RadiusTheme */
+body.rtwpvg .rtwpvg-images {
+    max-width: 100%;
+    max-width: -webkit-fill-available;
+    width: 100%;
+}
+.slick-arrow:before {
+    font-size: 20px !important;
+    color: #fff;
+    z-index: 9999999;
+    /* position: absolute; */
+    /* cursor: pointer; */
+    font-family: inherit !important;
+	line-height: 2;
+	    margin-left: -10px;
+}
+/* END by RadiusTheme */

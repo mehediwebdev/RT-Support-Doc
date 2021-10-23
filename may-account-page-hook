@@ -1,0 +1,9 @@
+// add_filter('rtcl_account_menu_items', function ($menu_items){
+
+//         $menu_items = array(
+//             'dashboard'    => __('Dashboard', 'classified-listing'),
+//             'favourites'   => __('Favourites', 'classified-listing'),
+//             'logout'       => __('Logout', 'classified-listing'),
+//         );
+// return $menu_items;
+// });

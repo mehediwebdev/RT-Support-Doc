@@ -1,0 +1,4 @@
+add_filter('rtcl_listing_contact_details_fields', function ( $fields ){
+$fields['zipcode']['label'] = __('Post Code', 'classima');
+return $fields;
+});

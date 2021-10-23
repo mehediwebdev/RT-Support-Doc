@@ -1,0 +1,8 @@
+body .rtwpvg-wrapper.loading-rtwpvg .rtwpvg-container.rtwpvg-preload-style-blur {
+    opacity: 1;
+    filter: none;
+    -webkit-filter: none;
+}
+body .rtwpvg-wrapper.loading-rtwpvg:after{
+    content:none;
+}

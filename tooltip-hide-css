@@ -1,0 +1,3 @@
+.pfp-tooltip {
+display: none !important;
+}

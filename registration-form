@@ -1,0 +1,13 @@
+function add_phone_at_registration_form() {
+?>
+<div class="form-group">
+<label for="rtcl-reg-phone" class="control-label">
+<?php esc_html_e('Phone Number', 'classified-listing'); ?>
+<strong class="rtcl-required">*</strong>
+</label>
+<input type="text" name="phone"
+value="<?php if (!empty($_POST['phone'])) esc_attr_e($_POST['phone']); ?>"
+id="rtcl-reg-phone" class="form-control" required/>
+</div>
+<?php
+}add_action('rtcl_register_form_start', 'add_phone_at_registration_form', 20);

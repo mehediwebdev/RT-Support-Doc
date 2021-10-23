@@ -1,0 +1,8 @@
+Use this hook at your childtheme/functions.php file
+
+add_filter('rtcl_misc_settings', function ($settings) {
+    if (isset($settings['image_allowed_type']) && is_array($settings['image_allowed_type'])) {
+        $settings['image_allowed_type'][] = 'svg';
+    }
+    return $settings;
+});

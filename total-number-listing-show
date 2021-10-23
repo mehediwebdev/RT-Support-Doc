@@ -1,0 +1,2 @@
+use Rtcl\Helpers\Functions;
+Functions::get_loop_prop('total')

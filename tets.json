@@ -1,0 +1,36 @@
+{
+"locations": [
+{
+  "name": "Afghanistan",
+  "slug": "",
+  "description":"",
+	  "meta": [
+	  {"image_id" :  45},
+	  {"_icon" :  ""}
+	],
+  "order":0,
+	"child": [
+	{
+	"name": "Badakhshan",
+	"order": 1,
+		"child": [
+		{
+		"name": "Test1",
+		"order": 3
+		},
+		{
+		"name": "test2",
+		"order": 4
+		}
+		]
+	},
+	{
+	"name": "Badghis",
+	"order": 2
+	}
+	]
+}
+],
+"listings":[
+]
+}

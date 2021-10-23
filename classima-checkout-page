@@ -1,0 +1,14 @@
+use Rtcl\Controllers\Hooks\TemplateHooks;
+
+​
+
+remove_action('rtcl_before_checkout_form', [TemplateHooks::class, 'add_checkout_form_instruction'], 10);
+add_action('rtcl_before_checkout_form', function(){
+?>
+<p><?php esc_html_e('Please review your order.', 'classima'); ?></p>
+<?php
+}, 10);
+
+​
+
+add this code in child theme functions.php file, then can override the content.

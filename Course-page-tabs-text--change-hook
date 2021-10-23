@@ -1,0 +1,4 @@
+add_filter( 'learn-press/course-tabs', function ( $tabs ) {
+$tabs['overview']['title'] = __( 'Change The Title', 'eikra' );
+return $tabs;
+} );

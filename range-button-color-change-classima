@@ -1,0 +1,5 @@
+.rtcl-range-slider-field input[type=range]::-webkit-slider-thumb { background: #fb6e05; };
+.rtcl-range-slider-field input[type=range]::-moz-range-thumb { background: #fb6e05; };
+.rtcl-range-slider-field input[type=range]::-ms-fill-lower { background: #fb6e05; };
+.rtcl-range-slider-field input[type=range]::-ms-thumb { background: #fb6e05; };
+.rtcl-range-slider-field input[type=range]:focus::-ms-fill-lower { background: #fb6e05; };

@@ -1,0 +1,4 @@
+add_filter('learn-press/enroll-course-button-text', function ($text){
+$text = 'fjdfldf';
+return $text;
+});

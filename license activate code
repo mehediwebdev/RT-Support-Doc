@@ -1,0 +1,7 @@
+$arr_inputs = get_option('rt_licenses');   
+$arr_inputs['metro_license'] = [
+    'key' => sanitize_text_field( 'db7c9db9-a234-4a91-bf84-dc0fa77de5e2' ),
+    'domain' => esc_url( 'https://mamysor.com' ),
+]; 
+
+update_option('rt_licenses', $arr_inputs);
